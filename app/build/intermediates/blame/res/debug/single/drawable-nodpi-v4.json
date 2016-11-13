@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/zzh/AndroidStudioProjects/ApiDemos/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/mug.jpg",
+        "source": "/Users/zzh/AndroidStudioProjects/ApiDemos/app/src/main/res/drawable-nodpi/mug.jpg"
+    },
+    {
+        "merged": "/Users/zzh/AndroidStudioProjects/ApiDemos/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/frantic.jpg",
+        "source": "/Users/zzh/AndroidStudioProjects/ApiDemos/app/src/main/res/drawable-nodpi/frantic.jpg"
+    },
+    {
+        "merged": "/Users/zzh/AndroidStudioProjects/ApiDemos/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/ball.jpg",
+        "source": "/Users/zzh/AndroidStudioProjects/ApiDemos/app/src/main/res/drawable-nodpi/ball.jpg"
+    },
+    {
+        "merged": "/Users/zzh/AndroidStudioProjects/ApiDemos/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/ducky.jpg",
+        "source": "/Users/zzh/AndroidStudioProjects/ApiDemos/app/src/main/res/drawable-nodpi/ducky.jpg"
+    },
+    {
+        "merged": "/Users/zzh/AndroidStudioProjects/ApiDemos/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/pencil.jpg",
+        "source": "/Users/zzh/AndroidStudioProjects/ApiDemos/app/src/main/res/drawable-nodpi/pencil.jpg"
+    },
+    {
+        "merged": "/Users/zzh/AndroidStudioProjects/ApiDemos/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/jellies.jpg",
+        "source": "/Users/zzh/AndroidStudioProjects/ApiDemos/app/src/main/res/drawable-nodpi/jellies.jpg"
+    },
+    {
+        "merged": "/Users/zzh/AndroidStudioProjects/ApiDemos/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/scissors.jpg",
+        "source": "/Users/zzh/AndroidStudioProjects/ApiDemos/app/src/main/res/drawable-nodpi/scissors.jpg"
+    },
+    {
+        "merged": "/Users/zzh/AndroidStudioProjects/ApiDemos/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/woot.jpg",
+        "source": "/Users/zzh/AndroidStudioProjects/ApiDemos/app/src/main/res/drawable-nodpi/woot.jpg"
+    },
+    {
+        "merged": "/Users/zzh/AndroidStudioProjects/ApiDemos/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/block.jpg",
+        "source": "/Users/zzh/AndroidStudioProjects/ApiDemos/app/src/main/res/drawable-nodpi/block.jpg"
+    }
+]

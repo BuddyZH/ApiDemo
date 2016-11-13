@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/zzh/AndroidStudioProjects/ApiDemos/app/build/intermediates/res/merged/debug/drawable-nodpi/logonodpi160.png",
+        "source": "/Users/zzh/AndroidStudioProjects/ApiDemos/app/src/main/res/drawable-nodpi/logonodpi160.png"
+    },
+    {
+        "merged": "/Users/zzh/AndroidStudioProjects/ApiDemos/app/build/intermediates/res/merged/debug/drawable-nodpi/logonodpi240.png",
+        "source": "/Users/zzh/AndroidStudioProjects/ApiDemos/app/src/main/res/drawable-nodpi/logonodpi240.png"
+    },
+    {
+        "merged": "/Users/zzh/AndroidStudioProjects/ApiDemos/app/build/intermediates/res/merged/debug/drawable-nodpi/logonodpi120.png",
+        "source": "/Users/zzh/AndroidStudioProjects/ApiDemos/app/src/main/res/drawable-nodpi/logonodpi120.png"
+    }
+]
